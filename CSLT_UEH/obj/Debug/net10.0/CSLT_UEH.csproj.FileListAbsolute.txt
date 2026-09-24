@@ -1,0 +1,14 @@
+C:\Users\Danh\source\repos\CSLT_UEH\CSLT_UEH\bin\Debug\net10.0\CSLT_UEH.exe
+C:\Users\Danh\source\repos\CSLT_UEH\CSLT_UEH\bin\Debug\net10.0\CSLT_UEH.deps.json
+C:\Users\Danh\source\repos\CSLT_UEH\CSLT_UEH\bin\Debug\net10.0\CSLT_UEH.runtimeconfig.json
+C:\Users\Danh\source\repos\CSLT_UEH\CSLT_UEH\bin\Debug\net10.0\CSLT_UEH.dll
+C:\Users\Danh\source\repos\CSLT_UEH\CSLT_UEH\bin\Debug\net10.0\CSLT_UEH.pdb
+C:\Users\Danh\source\repos\CSLT_UEH\CSLT_UEH\obj\Debug\net10.0\CSLT_UEH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danh\source\repos\CSLT_UEH\CSLT_UEH\obj\Debug\net10.0\CSLT_UEH.AssemblyInfoInputs.cache
+C:\Users\Danh\source\repos\CSLT_UEH\CSLT_UEH\obj\Debug\net10.0\CSLT_UEH.AssemblyInfo.cs
+C:\Users\Danh\source\repos\CSLT_UEH\CSLT_UEH\obj\Debug\net10.0\CSLT_UEH.csproj.CoreCompileInputs.cache
+C:\Users\Danh\source\repos\CSLT_UEH\CSLT_UEH\obj\Debug\net10.0\CSLT_UEH.dll
+C:\Users\Danh\source\repos\CSLT_UEH\CSLT_UEH\obj\Debug\net10.0\refint\CSLT_UEH.dll
+C:\Users\Danh\source\repos\CSLT_UEH\CSLT_UEH\obj\Debug\net10.0\CSLT_UEH.pdb
+C:\Users\Danh\source\repos\CSLT_UEH\CSLT_UEH\obj\Debug\net10.0\CSLT_UEH.genruntimeconfig.cache
+C:\Users\Danh\source\repos\CSLT_UEH\CSLT_UEH\obj\Debug\net10.0\ref\CSLT_UEH.dll

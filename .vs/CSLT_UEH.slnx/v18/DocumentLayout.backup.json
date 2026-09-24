@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Danh\\source\\repos\\CSLT_UEH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C84DEA2C-F7BF-26FB-56DD-C72388638242}|CSLT_UEH\\CSLT_UEH.csproj|c:\\users\\danh\\source\\repos\\cslt_ueh\\cslt_ueh\\session01\\bt_buoi1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84DEA2C-F7BF-26FB-56DD-C72388638242}|CSLT_UEH\\CSLT_UEH.csproj|solutionrelative:cslt_ueh\\session01\\bt_buoi1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84DEA2C-F7BF-26FB-56DD-C72388638242}|CSLT_UEH\\CSLT_UEH.csproj|c:\\users\\danh\\source\\repos\\cslt_ueh\\cslt_ueh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84DEA2C-F7BF-26FB-56DD-C72388638242}|CSLT_UEH\\CSLT_UEH.csproj|solutionrelative:cslt_ueh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84DEA2C-F7BF-26FB-56DD-C72388638242}|CSLT_UEH\\CSLT_UEH.csproj|c:\\users\\danh\\source\\repos\\cslt_ueh\\cslt_ueh\\session05\\baitap#5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84DEA2C-F7BF-26FB-56DD-C72388638242}|CSLT_UEH\\CSLT_UEH.csproj|solutionrelative:cslt_ueh\\session05\\baitap#5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84DEA2C-F7BF-26FB-56DD-C72388638242}|CSLT_UEH\\CSLT_UEH.csproj|c:\\users\\danh\\source\\repos\\cslt_ueh\\cslt_ueh\\session04\\baitap#3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84DEA2C-F7BF-26FB-56DD-C72388638242}|CSLT_UEH\\CSLT_UEH.csproj|solutionrelative:cslt_ueh\\session04\\baitap#3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84DEA2C-F7BF-26FB-56DD-C72388638242}|CSLT_UEH\\CSLT_UEH.csproj|c:\\users\\danh\\source\\repos\\cslt_ueh\\cslt_ueh\\session03\\baitap#2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84DEA2C-F7BF-26FB-56DD-C72388638242}|CSLT_UEH\\CSLT_UEH.csproj|solutionrelative:cslt_ueh\\session03\\baitap#2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84DEA2C-F7BF-26FB-56DD-C72388638242}|CSLT_UEH\\CSLT_UEH.csproj|c:\\users\\danh\\source\\repos\\cslt_ueh\\cslt_ueh\\session02\\baitap#1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84DEA2C-F7BF-26FB-56DD-C72388638242}|CSLT_UEH\\CSLT_UEH.csproj|solutionrelative:cslt_ueh\\session02\\baitap#1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Danh\\source\\repos\\31251020626_L\u00EA\u00DDThi\u00EAnNg\u00E2n_BT_DataTypes\\Bai_01\\BT_DataTypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BT_buoi1.cs",
+              "DocumentMoniker": "C:\\Users\\Danh\\source\\repos\\CSLT_UEH\\CSLT_UEH\\session01\\BT_buoi1.cs",
+              "RelativeDocumentMoniker": "CSLT_UEH\\session01\\BT_buoi1.cs",
+              "ToolTip": "C:\\Users\\Danh\\source\\repos\\CSLT_UEH\\CSLT_UEH\\session01\\BT_buoi1.cs",
+              "RelativeToolTip": "CSLT_UEH\\session01\\BT_buoi1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T12:15:04.856Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Baitap#2.cs",
+              "DocumentMoniker": "C:\\Users\\Danh\\source\\repos\\CSLT_UEH\\CSLT_UEH\\session03\\Baitap#2.cs",
+              "RelativeDocumentMoniker": "CSLT_UEH\\session03\\Baitap#2.cs",
+              "ToolTip": "C:\\Users\\Danh\\source\\repos\\CSLT_UEH\\CSLT_UEH\\session03\\Baitap#2.cs",
+              "RelativeToolTip": "CSLT_UEH\\session03\\Baitap#2.cs",
+              "ViewState": "AgIAABABAAAAAAAAAAAAACMBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T12:34:16.127Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Danh\\source\\repos\\CSLT_UEH\\CSLT_UEH\\Program.cs",
+              "RelativeDocumentMoniker": "CSLT_UEH\\Program.cs",
+              "ToolTip": "C:\\Users\\Danh\\source\\repos\\CSLT_UEH\\CSLT_UEH\\Program.cs",
+              "RelativeToolTip": "CSLT_UEH\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T13:26:01.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Baitap#3.cs",
+              "DocumentMoniker": "C:\\Users\\Danh\\source\\repos\\CSLT_UEH\\CSLT_UEH\\session04\\Baitap#3.cs",
+              "RelativeDocumentMoniker": "CSLT_UEH\\session04\\Baitap#3.cs",
+              "ToolTip": "C:\\Users\\Danh\\source\\repos\\CSLT_UEH\\CSLT_UEH\\session04\\Baitap#3.cs",
+              "RelativeToolTip": "CSLT_UEH\\session04\\Baitap#3.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAAAKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T13:21:37.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Baitap#5.cs",
+              "DocumentMoniker": "C:\\Users\\Danh\\source\\repos\\CSLT_UEH\\CSLT_UEH\\session05\\Baitap#5.cs",
+              "RelativeDocumentMoniker": "CSLT_UEH\\session05\\Baitap#5.cs",
+              "ToolTip": "C:\\Users\\Danh\\source\\repos\\CSLT_UEH\\CSLT_UEH\\session05\\Baitap#5.cs",
+              "RelativeToolTip": "CSLT_UEH\\session05\\Baitap#5.cs",
+              "ViewState": "AgIAAEACAAAAAAAAAAAAAFMCAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T12:46:39.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BT_DataTypes.cs",
+              "DocumentMoniker": "C:\\Users\\Danh\\source\\repos\\31251020626_L\u00EA\u00DDThi\u00EAnNg\u00E2n_BT_DataTypes\\Bai_01\\BT_DataTypes.cs",
+              "RelativeDocumentMoniker": "..\\31251020626_L\u00EA\u00DDThi\u00EAnNg\u00E2n_BT_DataTypes\\Bai_01\\BT_DataTypes.cs",
+              "ToolTip": "C:\\Users\\Danh\\source\\repos\\31251020626_L\u00EA\u00DDThi\u00EAnNg\u00E2n_BT_DataTypes\\Bai_01\\BT_DataTypes.cs",
+              "RelativeToolTip": "..\\31251020626_L\u00EA\u00DDThi\u00EAnNg\u00E2n_BT_DataTypes\\Bai_01\\BT_DataTypes.cs",
+              "ViewState": "AgIAAAABAAAAAAAAAAAowCYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T12:28:23.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Baitap#1.cs",
+              "DocumentMoniker": "C:\\Users\\Danh\\source\\repos\\CSLT_UEH\\CSLT_UEH\\session02\\Baitap#1.cs",
+              "RelativeDocumentMoniker": "CSLT_UEH\\session02\\Baitap#1.cs",
+              "ToolTip": "C:\\Users\\Danh\\source\\repos\\CSLT_UEH\\CSLT_UEH\\session02\\Baitap#1.cs",
+              "RelativeToolTip": "CSLT_UEH\\session02\\Baitap#1.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T12:22:50.936Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

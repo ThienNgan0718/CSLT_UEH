@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
     class Baitap_5
     {
         // BÀI 1: TÍNH TỔNG HAI SỐ NGUYÊN
@@ -332,15 +329,12 @@ using System.Text;
 
         static int DemSoTu(string sentence)
         {
-            string[] mangTu = sentence.Split(
-                new char[] { ' ' },
-                StringSplitOptions.RemoveEmptyEntries
-            );
+            string[] mangTu = sentence.Split(new char[] {' '}, StringSplitOptions.RemoveEmptyEntries);
 
             return mangTu.Length;
         }
 
-        public static void Run()
+        public static void Main()
         {
             int chon;
 

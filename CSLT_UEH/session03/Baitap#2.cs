@@ -281,7 +281,7 @@ using System.Globalization;
         }
 
 
-        public static void Run()
+        public static void  Main()
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Bai_01();

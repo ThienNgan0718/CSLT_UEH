@@ -12,3 +12,4 @@ C:\Users\Danh\source\repos\CSLT_UEH\CSLT_UEH\obj\Debug\net10.0\refint\CSLT_UEH.d
 C:\Users\Danh\source\repos\CSLT_UEH\CSLT_UEH\obj\Debug\net10.0\CSLT_UEH.pdb
 C:\Users\Danh\source\repos\CSLT_UEH\CSLT_UEH\obj\Debug\net10.0\CSLT_UEH.genruntimeconfig.cache
 C:\Users\Danh\source\repos\CSLT_UEH\CSLT_UEH\obj\Debug\net10.0\ref\CSLT_UEH.dll
+C:\Users\Danh\source\repos\CSLT_UEH\CSLT_UEH\obj\Debug\net10.0\CSLT_UEH.sourcelink.json

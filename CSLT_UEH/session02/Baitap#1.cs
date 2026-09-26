@@ -1,11 +1,7 @@
 ﻿using System;
-
-using System.Drawing;
-using static System.Runtime.InteropServices.JavaScript.JSType;
-
     class Baitap_1
     {
-        public static void Run()
+        public static void Main()
         {
             //1.to Add / Sum Two Numbers.
             int a = 6, b = 7;

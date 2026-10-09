@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSLT_UEH")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f43a0b908c63eb26a46ca3b62b3c962bcdeaba8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc0224a0da26b463f8959ac2eb712c41dfdf1c84")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSLT_UEH")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSLT_UEH")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

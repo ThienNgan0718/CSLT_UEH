@@ -5,7 +5,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Baitap_6a</StartupObject>
+    <StartupObject>Baitap_7</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
